@@ -1,2 +1,2 @@
-# Pokegrams
+# DiceRoller-React
 Created with CodeSandbox
